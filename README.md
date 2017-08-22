@@ -1,8 +1,8 @@
 # Ranger-Pill-System
 Repository for my UCR CS179J Senior Project.   For our final Senior project, my group and I each designed items to help the elderly live independently. My project, the Ranger Pill System, is a pill management system which alerts users when to take his/her pills. I used a Raspberry PI and an Arduino Mega to create this system. If you have any questions, send them my way! DO NOT PLAGIARIZE.
 
-[Link to video] (https://www.youtube.com/watch?v=IyFVuxJioqs)
-[Link to my group's video] (https://www.youtube.com/watch?v=PTQGFykPU5I)
+[Link to video](https://www.youtube.com/watch?v=IyFVuxJioqs)  
+[Link to my group's video](https://www.youtube.com/watch?v=PTQGFykPU5I)  
 Source Code Descriptions  
 
 ***main.py***: The main program of the project.  It runs get_time.py first, and depending on what time value get_time returns, it either quits or runs send_flag.py  
